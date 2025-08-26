@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-git 
+git https://github.com/ManaliBachhav/MedicalChatbot.git
 Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
