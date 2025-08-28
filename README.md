@@ -129,3 +129,8 @@ open up localhost:
    - ECR_REPO
    - PINECONE_API_KEY
    - OPENAI_API_KEY
+
+
+ # 8. output
+
+  [Chatbot Output](images/output.png.png)
