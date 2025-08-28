@@ -7,4 +7,4 @@ langchain-huggingface==0.1.0
 langchain-google-genai==1.0.7
 sentence-transformers==2.7.0
 pypdf==5.1.0
-python-dotenv==1.0.
+python-dotenv==1.0.1
